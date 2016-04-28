@@ -1,0 +1,20 @@
+{
+  "name": "meshblu-nanocyte-component-runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.10.0",
+    "lodash": "^4.11.1",
+    "meshblu-config": "^4.0.0",
+    "meshblu-firehose-socket.io": "^1.7.0",
+    "meshblu-http": "^5.1.1",
+    "nanocyte-component-equal": "^1.0.2",
+    "stream-combiner2": "^1.1.1"
+  }
+}
